@@ -1,2 +1,2 @@
 # GeoQuiz
-Helps you with your geography knowledge. 
+Helps you with your android knowledge. 
